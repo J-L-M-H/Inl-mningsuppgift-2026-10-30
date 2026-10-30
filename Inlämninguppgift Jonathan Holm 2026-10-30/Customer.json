@@ -1,0 +1,14 @@
+{
+
+  {
+    "Name": "Klara",
+    "Age": 25,
+    "Membership": true
+  },
+
+  {
+    "Name": "Filip",
+    "Age": 43,
+    "Membership": false
+  }
+}
