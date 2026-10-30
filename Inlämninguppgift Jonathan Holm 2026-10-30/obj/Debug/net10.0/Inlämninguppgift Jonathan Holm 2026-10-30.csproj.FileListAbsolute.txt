@@ -1,0 +1,30 @@
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.exe
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.deps.json
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.runtimeconfig.json
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.dll
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.pdb
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.AssemblyInfoInputs.cache
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.AssemblyInfo.cs
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.csproj.CoreCompileInputs.cache
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.sourcelink.json
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.dll
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\refint\Inlämninguppgift Jonathan Holm 2026-10-30.dll
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.pdb
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.genruntimeconfig.cache
+C:\Users\annie\Documents\Programmering\BED26GB\Inlämninguppgift Jonathan Holm 2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\ref\Inlämninguppgift Jonathan Holm 2026-10-30.dll
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.exe
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.deps.json
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.runtimeconfig.json
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.dll
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\bin\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.pdb
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.AssemblyInfoInputs.cache
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.AssemblyInfo.cs
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.csproj.CoreCompileInputs.cache
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.sourcelink.json
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.dll
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\refint\Inlämninguppgift Jonathan Holm 2026-10-30.dll
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.pdb
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\Inlämninguppgift Jonathan Holm 2026-10-30.genruntimeconfig.cache
+C:\Users\annie\Documents\Programmering\BED26GB\Inl-mningsuppgift-2026-10-30\Inlämninguppgift Jonathan Holm 2026-10-30\obj\Debug\net10.0\ref\Inlämninguppgift Jonathan Holm 2026-10-30.dll
