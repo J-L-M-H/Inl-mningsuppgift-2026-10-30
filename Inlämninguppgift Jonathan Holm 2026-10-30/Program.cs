@@ -2,14 +2,18 @@
 using System.Collections;
 using System.Text.Json;
 
+
 string jsonRentals = File.ReadAllText("Rentals.json");
+
 string jsonCustomer = File.ReadAllText("Customer.json");
+
 string jsonRentalsInProgress = File.ReadAllText("RentalsInProgress.json");
 
-//Console.WriteLine(jsonFile);
 
 List<Bike> bike = JsonSerializer.Deserialize<List<Bike>>(jsonRentals);
+
 List<Customer> customer = JsonSerializer.Deserialize<List<Customer>>(jsonCustomer);
+
 List<RentalsInProgress> rentalsInProgress = JsonSerializer.Deserialize<List<RentalsInProgress>>(jsonRentalsInProgress);
 
 while (true)
