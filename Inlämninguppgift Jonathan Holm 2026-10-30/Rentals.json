@@ -1,8 +1,17 @@
 {
-  {
-    "Index": 1,
-    "Type": "Bike",
-    "Availability": true
-    "Rate": 20,
-  }
-}
+  [
+    {
+      "Index": 1,
+      "Type": "Bike",
+      "Availability": "Ledig",
+      "Rate": 20
+    },
+
+    {
+      "Index": 2,
+      "Type": "ElectricBike",
+      "Availability": "Uthyrd",
+      "Rate": 20,
+      "Battery": 100
+    }
+  ]

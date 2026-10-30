@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inlämninguppgift Jonathan Holm 2026-10-30")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35b8a9075912cec5934301ccdb21eef61807ac3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e3def21232a00392766ba914f5463cf6dbc8e24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inlämninguppgift Jonathan Holm 2026-10-30")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inlämninguppgift Jonathan Holm 2026-10-30")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
